@@ -1,4 +1,4 @@
-package com.myusetool.dao.dto;
+package com.myusetool.bean.dto;
 
 public class FlowNode {
     private String FlowNodeId;

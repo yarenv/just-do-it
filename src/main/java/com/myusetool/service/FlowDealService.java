@@ -1,6 +1,6 @@
 package com.myusetool.service;
 
-import com.myusetool.dao.dto.FlowNode;
+import com.myusetool.bean.dto.FlowNode;
 import com.myusetool.enmu.DealState;
 
 import java.util.List;

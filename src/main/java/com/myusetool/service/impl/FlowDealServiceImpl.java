@@ -1,6 +1,6 @@
 package com.myusetool.service.impl;
 
-import com.myusetool.dao.dto.FlowNode;
+import com.myusetool.bean.dto.FlowNode;
 import com.myusetool.enmu.DealState;
 import com.myusetool.enmu.FlowNodeConfig;
 import org.slf4j.Logger;
